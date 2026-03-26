@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahina Sheikh</h1>
 <h3 align="center">A passionate Python Full Stack Developer from India</h3>
 <img src="GIF_LINK" width="400" align="right"/>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" align="right"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahina72sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="shahina72sheikh" /> </p>
 
